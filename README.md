@@ -1,8 +1,8 @@
 # Olá! 👋 Eu sou o Jônatas
 
-Sou **Jônatas Miguel Moreno dos Santos**, estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC São Paulo (FATEC-SP)**, em São Paulo – SP, em busca de oportunidades de **Estágio em Desenvolvimento de Software / TI**.
+Sou **Jônatas Miguel Moreno dos Santos**, estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC São Paulo (FATEC-SP)**, em São Paulo – SP.
 
-Tenho experiência prática em **desenvolvimento backend**, **automação de processos** e **infraestrutura** (`Linux`, `Docker`), utilizando **Python**, **Java**, **Kotlin**, **JavaScript (Node.js)**, **SQL** e **PostgreSQL**, além de foco contínuo em **cibersegurança (Segurança Web / Burp Suite)** e interesse em projetos **Open Source**.
+Tenho experiência prática em **desenvolvimento backend**, **automação de processos** e **infraestrutura** (`Linux`, `Docker`), utilizando **Python**, **Java**, **Kotlin**, **JavaScript (Node.js)**, **SQL** e **PostgreSQL**, além de interesse em projetos **Open Source**.
 
 ---
 
